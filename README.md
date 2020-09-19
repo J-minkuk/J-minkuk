@@ -1,9 +1,18 @@
 ### Minkuk Jo 🌱 
 
 ### FLO Server Developer
+* 2019.05 ~
 
-### Interest
-* Java
+### 활동
+* [MOJITO](https://apps.apple.com/kr/app/%EB%AA%A8%EC%A7%80%EB%98%90-%EB%8D%B0%EC%9D%BC%EB%A6%AC-%EC%9D%B4%EB%AA%A8%EC%A7%80-%EB%8B%A4%EC%9D%B4%EC%96%B4%EB%A6%AC/id1508866668) - 토이 프로젝트
+* [SSAFY](#) - 삼성전자 주관 교육
+* [Git-Flow](https://github.com/springframework-storage/Public-GitFlow) - 그 Git-Flow는 아님
+* [Naver Hack Day](https://github.com/springframework-storage/HotComments) - 이용자 피드백 플랫폼
+
+### 잘하고 싶거나 잘 알고 싶은 것
+* java 8 
+* spring cloud
+* docker
 * method conversation
 * clean code
 * OOP
