@@ -15,7 +15,7 @@
 - do not play API 개발 및 concurrency 이슈 해결
    - redis, zookeeper lock
 - Badge DB 구조 설계 및 API 개발
-- Cached Streaming 및 청취로그 전체 API rafactoring
+- Cached Streaming 및 청취로그 전체 API refactoring
    - strategy pattern
 - 영상 검색 개발 및 검색 API 전반 refactoring
    - strategy pattern
