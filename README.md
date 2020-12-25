@@ -10,7 +10,7 @@
 - SKT NUGU NLU 연동 음성 인식 SDK API 개발 및 Leading
 - 캐싱 가능한 컨텐츠 API에 로컬 캐시 적용
    - A, B, C, D 총 4군데 적용 -> 각각 8 / 1.8 / 10 / 4배 응답 속도 개선
-- 컨텐츠 조회 쿼리 개선
+- 컨텐츠 조회 쿼리 및 로직 개선
    - left jojn으로 생성되던 중복 row 100% 제거
 - do not play API 개발 및 concurrency 이슈 해결
    - redis, zookeeper lock
