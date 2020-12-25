@@ -3,7 +3,7 @@
 ### FLO Server Developer
 * 2019.05 ~ ⚡
 
-### MSA
+### MSA & Sub
 - 내부 feign 통신용 메타 API 고도화
    - facade pattern
 - Music Recognition API 개발
@@ -24,11 +24,10 @@
 - 사용자 인입 지점 트래킹 appsflyer 연동 API 개발
 - universal link 활용 컨텐츠 sharing API 개발
 
-기타 간단한 작업들은 명시하지 않음.
-
 ### CMS
-- 모놀리식 아키텍쳐 -> 서브 모듈 구성의 아키텍쳐로 전환
-- REST API로 전환
+- 모놀리식 아키텍쳐 -> 서브 모듈 구성의 아키텍쳐 전환 및 REST API 전환
+
+기타 간단한 작업들은 명시하지 않음.
 
 ---
 
