@@ -9,8 +9,8 @@
 * [SSAFY 1st_2019_상반기](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
 * [Git-Flow_2018_Winter](https://github.com/springframework-storage/Public-GitFlow) - 그 Git-Flow는 아닙니다
 * [Naver Hack Day_2018_Summer](https://github.com/springframework-storage/HotComments) - 이용자 피드백 플랫폼 (인기 댓글 찾기)
-* [Naver Hack Day_2017_Winter](#) - 크롬 Extension 만들기
-* [Naver Hack Day_2017_Summer](#) - 1000만 사용자를 위한 게시판
+* [Naver Hack Day_2017_Winter](https://github.com/springframework-storage) - 크롬 Extension 만들기
+* [Naver Hack Day_2017_Summer](https://github.com/springframework-storage) - 1000만 사용자를 위한 게시판
 
 ### 관심사
 * ✨  method conversation
