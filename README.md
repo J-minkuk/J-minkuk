@@ -17,6 +17,7 @@
 - Badge DB 구조 설계 및 API 개발
 - Cached Streaming 및 청취로그 전체 API refactoring
    - strategy pattern
+- Artist&FLO Goods..
 - 영상 검색 개발 및 검색 API 전반 refactoring
    - strategy pattern
 - 인증(본인, 성인, 미성년자 대리인) API 개발
