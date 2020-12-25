@@ -3,6 +3,32 @@
 ### FLO Server Developer
 * 2019.05 ~ ⚡
 
+### MSA
+- 내부 feign 통신용 메타 API 고도화
+   - facade pattern
+- Music Recognition API 개발
+- SKT NUGU NLU 연동 음성 인식 SDK API 개발 및 Leading
+- 캐싱 가능한 컨텐츠 API에 로컬 캐시 적용
+   - A, B, C, D 총 4군데 적용 -> 각각 8 / 1.8 / 10 / 4배 응답 속도 개선
+- 컨텐츠 조회 쿼리 개선
+   - left jojn으로 생성되던 중복 row 100% 제거
+- do not play API 개발 및 concurrency 이슈 해결
+   - redis, zookeeper lock
+- Badge DB 구조 설계 및 API 개발
+- Cached Streaming 및 청취로그 전체 API rafactoring
+   - strategy pattern
+- 영상 검색 개발 및 검색 API 전반 refactoring
+   - strategy pattern
+- 인증(본인, 성인, 미성년자 대리인) API 개발
+- 사용자 인입 지점 트래킹 appsflyer 연동 API 개발
+- universal link 활용 컨텐츠 sharing API 개발
+
+### CMS
+- 모놀리식 아키텍쳐 -> 서브 모듈 구성의 아키텍쳐로 전환
+- REST API로 전환
+
+---
+
 ### 활동
 * [MOJITO](https://apps.apple.com/kr/app/%EB%AA%A8%EC%A7%80%EB%98%90-%EB%8D%B0%EC%9D%BC%EB%A6%AC-%EC%9D%B4%EB%AA%A8%EC%A7%80-%EB%8B%A4%EC%9D%B4%EC%96%B4%EB%A6%AC/id1508866668) - 토이 프로젝튼데 점점 커지고 있어서 약간 부담스러운 녀석
     * 현재 가입자 수 약 35,000명, AOS 개발중 🌱
