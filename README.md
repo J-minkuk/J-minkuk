@@ -1,8 +1,6 @@
 ### Minkuk Jo
 
-### FLO Server Developer
-* 2019.05 ~ ⚡
-
+### FLO Server Developer (2019.05 ~ ⚡)
 ### MSA & Sub
 - 내부 feign 통신용 메타 API 고도화
    - facade pattern
