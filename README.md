@@ -6,7 +6,8 @@
    - facade pattern
 - Music Recognition API 개발
 - SKT NUGU NLU 연동 음성 인식 SDK API 개발 및 Leading
-- 캐싱 가능한 컨텐츠 API에 로컬 캐시 적용 및 로직 개선
+- 캐싱 가능한 컨텐츠 API에 로컬 인 메모리 캐시 적용 및 로직 개선
+   - zookeeper event 기반 polling
    - A, B, C, D 총 4군데 적용 -> 각각 8 / 1.8 / 10 / 4배 응답 속도 개선
 - 컨텐츠 조회 쿼리 및 로직 개선
    - left jojn으로 생성되던 중복 row 100% 제거
