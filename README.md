@@ -31,8 +31,10 @@
 ---
 
 ### Activity
-* [MOJITO](https://apps.apple.com/kr/app/%EB%AA%A8%EC%A7%80%EB%98%90-%EB%8D%B0%EC%9D%BC%EB%A6%AC-%EC%9D%B4%EB%AA%A8%EC%A7%80-%EB%8B%A4%EC%9D%B4%EC%96%B4%EB%A6%AC/id1508866668) - 토이 프로젝튼데 점점 커지고 있어서 약간 부담스러운 녀석
-    * 현재 가입자 수 약 40,000명, AOS 출시! 2020.12.29🌱
+* MOJITO - 토이 프로젝튼데 점점 커지고 있어서 약간 부담스러운 녀석
+   * [AOS](https://play.google.com/store/apps/details?id=com.blender.mojito&hl=ko)
+   * [IOS](https://apps.apple.com/kr/app/%EB%AA%A8%EC%A7%80%EB%98%90-%EB%8D%B0%EC%9D%BC%EB%A6%AC-%EC%9D%B4%EB%AA%A8%EC%A7%80-%EB%8B%A4%EC%9D%B4%EC%96%B4%EB%A6%AC/id1508866668)
+   * 현재 가입자 수 약 40,000명 🌱
 * [SSAFY 1st_2019_상반기](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
 * [Git-Flow_2018_Winter](https://github.com/springframework-storage/Public-GitFlow) - 그 Git-Flow는 아닙니다
 * [Naver Hack Day_2018_Summer](https://github.com/springframework-storage/HotComments) - 이용자 피드백 플랫폼 (인기 댓글 찾기)
