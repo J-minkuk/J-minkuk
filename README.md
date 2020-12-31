@@ -66,8 +66,8 @@
   <td>universal link</td>
 </tr>
 <tr>
-  <td>CMS 모놀리식 아키텍쳐 -> 서브 모듈 구성의 아키텍쳐 전환 및 REST API 전환</td>
-  <td></td>
+  <td>모놀리식 아키텍쳐 -> 서브 모듈 구성의 아키텍쳐 전환 및 REST API 전환</td>
+  <td>CMS</td>
 </tr>
 </tbody>
 </table>
