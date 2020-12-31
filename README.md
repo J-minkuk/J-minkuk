@@ -95,6 +95,7 @@
 ### 회고
 
 * [새로운 시작 2019년](https://github.com/J-minkuk/LearnKit/blob/master/%ED%9A%8C%EA%B3%A0/2019/2019.md)
+* [2020년, 나는 얼마나 성장했을까](https://github.com/J-minkuk/LearnKit/blob/master/%ED%9A%8C%EA%B3%A0/2020/2020.md)
 
 ---
 
