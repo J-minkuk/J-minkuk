@@ -12,12 +12,12 @@
 </thead>
 <tbody>
 <tr>
-  <td>내부 feign 통신용 메타 API 고도화</td>
-  <td>facade pattern</td>
-</tr>
-<tr>
   <td>Music Recognition API 개발</td>
   <td></td>
+</tr>
+<tr>
+  <td>내부 feign 통신용 메타 API 고도화</td>
+  <td>facade pattern</td>
 </tr>
 <tr>
   <td>SKT NUGU NLU 연동 음성 인식 SDK API 개발 및 Leading</td>
@@ -44,16 +44,16 @@
   <td>strategy pattern</td>
 </tr>
 <tr>
-  <td>Artist&FLO Goods..</td>
-  <td></td>
+  <td>인증(본인, 성인, 미성년자 대리인) API 개발</td>
+  <td>KMC</td>
 </tr>
 <tr>
   <td>영상 검색 개발 및 검색 API 전반 refactoring</td>
   <td>strategy pattern</td>
 </tr>
 <tr>
-  <td>인증(본인, 성인, 미성년자 대리인) API 개발</td>
-  <td>KMC</td>
+  <td>Artist&FLO Goods..</td>
+  <td></td>
 </tr>
 <tr>
   <td>사용자 인입 지점 트래킹 API 개발</td>
