@@ -33,7 +33,7 @@
 </tr>
 <tr>
   <td>do not play API 개발 및 concurrency 이슈 해결</td>
-  <td>redis, zookeeper</td>
+  <td>redis</td>
 </tr>
 <tr>
   <td>Badge DB 구조 설계 및 API 개발</td>
