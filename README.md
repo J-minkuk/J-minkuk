@@ -19,6 +19,8 @@
 
 * ✨ method conversation
 * spring cloud
+* kotlin
+* JPA
 * 🤔clean code란 무엇인가
 * 💬OOP는 하면 할수록 할 때마다 어렵다
 * ✨BDD는 재밌다
