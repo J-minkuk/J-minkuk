@@ -15,10 +15,8 @@
 
 ### Concern
 
-* ✨ method conversation
-* spring cloud
-* kotlin + JPA
-* OOP는 하면 할수록 할 때마다 어렵다
+* k8s + istio
+* kotlin
 * BDD, Refactoring
 
 ### 회고
