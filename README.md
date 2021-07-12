@@ -10,7 +10,7 @@
 
 ### Activity
 
-* MOJITO - 토이 프로젝튼데 점점 커져서 부담스러운 녀석.. 🌱 현재 가입자 수 약 70,000명 (2021.03.28)
+* MOJITO - 토이 프로젝튼데 점점 커져서 부담스러운 녀석.. 🌱 현재 가입자 수 약 80,000명 (2021.07.13)
     * [플레이스토어](https://play.google.com/store/apps/details?id=com.blender.mojito&hl=ko)
       , [앱스토어](https://apps.apple.com/kr/app/%EB%AA%A8%EC%A7%80%EB%98%90-%EB%8D%B0%EC%9D%BC%EB%A6%AC-%EC%9D%B4%EB%AA%A8%EC%A7%80-%EB%8B%A4%EC%9D%B4%EC%96%B4%EB%A6%AC/id1508866668)
 * [SSAFY 1st_2019_상반기](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
