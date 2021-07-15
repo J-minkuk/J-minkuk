@@ -1,9 +1,3 @@
-# 토스뱅크 대규모 채용
-### https://recruit.tossbank.com
-![토스뱅크 경력채용_01](https://user-images.githubusercontent.com/26575604/125026216-13c53a00-e0bf-11eb-94c9-f3179278d551.png)
-
----
-
 ### Resume -> http://minkuk-jo.com 
 
 ---
