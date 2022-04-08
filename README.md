@@ -19,11 +19,6 @@
 * kotlin
 * BDD, Refactoring
 
-### 회고
-
-* [새로운 시작 2019년](https://github.com/J-minkuk/LearnKit/blob/master/%ED%9A%8C%EA%B3%A0/2019/2019.md)
-* [2020년, 나는 얼마나 성장했을까](https://github.com/J-minkuk/LearnKit/blob/master/%ED%9A%8C%EA%B3%A0/2020/2020.md)
-
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-minkuk&layout=compact&hide=javascript,html,css,CoffeeScript&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
